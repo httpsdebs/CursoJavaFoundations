@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author bee
- *
- */
-module atividade {
-}
